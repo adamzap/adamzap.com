@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block content %}
+<header class="index-header">
+  <img src="static/img/front.jpg" width="660px" height="440px"/>
+</header>
+
+<main role="main" class="container">
+
+  <h3>About</h3>
+
+  <p>{{ about }}</p>
+
+  {% for section, pages in sections.items() %}
+    <h3>{{ section|replace('-', ' ')|title }}</h3>
+
+    <ul class="section-list">
+      {% for page in pages %}
+        <li>
+          <a href="{{ page.href }}">{{ page.title }}</a>
+          <span>
+            {% if page.index_date %}
+              {{ page.index_date }}
+            {% else %}
+              {{ page.date.strftime('%B %d, %Y') }}
+            {% endif %}
+          </span>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+
+</main>
+{% endblock %}

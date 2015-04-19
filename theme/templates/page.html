@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% block content %}
+<main role="main" class="container">
+  <article>
+    <header class="page-header">
+      <h1>{{ title }}</h1>
+      <time datetime="date.strftime('%Y-%m-%d')">{{ date.strftime('%B %d, %Y') }}</time>
+    </header>
+
+    <section>
+      {{ content }}
+    </section>
+  </article>
+
+  <footer>
+    <a href="index.html">
+      <img src="{{ up_dir }}static/img/profile.jpg" width="100px" height="100px"/>
+    </a>
+
+    <p>
+      Hello! Thanks for reading!
+    </p>
+
+    <p>
+      Browse the rest of my web site <a href="{{ up_dir }}">here</a>.
+    </p>
+
+    <p>
+      Contact me at <a href="mailto:adamzap@gmail.com">adamzap@gmail.com</a>
+      with questions or comments.
+    </p>
+  </footer>
+</main>
+{% endblock %}

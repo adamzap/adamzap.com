@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <link rel="stylesheet" href="{{ up_dir }}static/css/normalize.css">
+    <link rel="stylesheet" href="{{ up_dir }}static/css/style.css">
+    <link rel="stylesheet" href="{{ up_dir }}static/css/pygments.css">
+
+    <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
+
+    <title>{% if title %}{{ title }} - {% endif %}ADAMZAP</title>
+  </head>
+
+  <body>
+    <div class="top">
+      <h3>
+        <a href="{{ up_dir }}index.html">Adam<span>Zap</span></a>
+      </h3>
+    </div>
+
+    {% block content %}{% endblock %}
+
+  </body>
+</html>
