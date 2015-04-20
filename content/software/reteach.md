@@ -1,6 +1,6 @@
 title: Reteach
 date: 2015-04-09
-index_date: 2010-2011
+index_meta: Python
 
 ![Reteach](../../media/reteach.png)
 

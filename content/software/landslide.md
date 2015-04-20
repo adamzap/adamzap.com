@@ -1,6 +1,6 @@
 title: Landslide
 date: 2015-04-11
-index_date: 2010-20XX
+index_meta: Python
 
 Landslide is a Python program that generates a HTML5 slideshows from Markdown,
 Restructured Text, or Textile files. It's first release was in 2010.

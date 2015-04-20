@@ -1,6 +1,6 @@
 title: Bare Bible
 date: 2015-04-10
-index_date: 2010-2012
+index_meta: Web
 
 Bare Bible is a website that displays complete books of the Bible without any
 features like verse numbers, headings, or cross references. It was released

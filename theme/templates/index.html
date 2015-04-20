@@ -19,8 +19,8 @@
         <li>
           <a href="{{ page.href }}">{{ page.title }}</a>
           <span>
-            {% if page.index_date %}
-              {{ page.index_date }}
+            {% if page.index_meta %}
+              {{ page.index_meta }}
             {% else %}
               {{ page.date.strftime('%B %d, %Y') }}
             {% endif %}

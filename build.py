@@ -50,7 +50,7 @@ def read_pages():
             pages.append({
                 'up_dir': '../../',
                 'href': section + '/' + filename.replace('.md', '/'),
-                'index_date': meta.get('index_date'),
+                'index_meta': meta.get('index_meta'),
                 'title': meta['title'],
                 'date': date,
                 'content': content
