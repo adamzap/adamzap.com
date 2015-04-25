@@ -134,6 +134,10 @@ pre {
   padding: 8px;
 }
 
+iframe {
+  margin-bottom: 2rem;
+}
+
 ::selection {
   color: #EEEEEE;
   background-color: #4A4A4A;
