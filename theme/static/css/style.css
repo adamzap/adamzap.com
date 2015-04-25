@@ -74,8 +74,8 @@ ol, ul {
 }
 
 .index-header {
-  padding-top: 25px;
-  padding-bottom: 34px;
+  padding-top: 1.5rem;
+  padding-bottom: 2rem;
   text-align: center;
 }
 
@@ -178,8 +178,8 @@ iframe {
 }
 
 .page-header {
-  padding-top: 15px;
-  padding-bottom: 32px;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
 }
 
 .page-header h1 {
@@ -194,6 +194,7 @@ iframe {
   background-color: #EEEEEE;
   border-bottom: 1px solid #CCCCCC;
   padding-top: 4px;
+  margin-bottom: 2rem;
 }
 
 .top h3 {
