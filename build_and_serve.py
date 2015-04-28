@@ -50,7 +50,6 @@ def read_pages():
             date = datetime.datetime.strptime(meta['date'], '%Y-%m-%d').date()
 
             pages.append({
-                'up_dir': '../../',
                 'href': section + '/' + filename.replace('.md', '/'),
                 'index_meta': meta.get('index_meta'),
                 'title': meta['title'],
