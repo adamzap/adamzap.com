@@ -7,6 +7,7 @@ import shutil
 import datetime
 import markdown
 import functools
+import livereload
 import collections
 import feedgenerator
 
@@ -112,7 +113,7 @@ def write_feed():
         feed.write(feed_file, 'ascii')
 
 
-def main():
+def build():
     try:
         shutil.rmtree(OUT_DIR)
     except OSError:
@@ -132,4 +133,9 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    server = livereload.Server()
+
+    server.watch('content', build)
+    server.watch('theme', build)
+
+    server.serve(root='deploy', open_url=True)
