@@ -10,8 +10,8 @@ Colors:
 
 - Text:       #4A4A4A
 - Light Text: #999999
-- Link:       #D94040
-- Light Link: #E58080
+- Link:       #BD1010
+- Light Link: #B27676
 
 */
 
@@ -103,7 +103,7 @@ footer p {
 }
 
 footer a, footer a:hover, footer a:active {
-  color: #E58080;
+  color: #B27676;
 }
 
 img {
@@ -117,7 +117,7 @@ img {
 }
 
 a, a:hover, a:active {
-  color: #D94040;
+  color: #BD1010;
   text-decoration: none;
 }
 
@@ -209,5 +209,5 @@ iframe {
 }
 
 .top span {
-  color: #D94040;
+  color: #BD1010;
 }
