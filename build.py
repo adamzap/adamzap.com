@@ -8,6 +8,7 @@ import datetime
 import markdown
 import functools
 import collections
+import feedgenerator
 
 
 IN_DIR = 'content/'
@@ -89,6 +90,28 @@ def write_index():
         out.write(index_template.render(ctx))
 
 
+def write_feed():
+    feed_args = {
+        'title': 'adamzap.com',
+        'link': 'http://adamzap.com/',
+        'description': 'New content from adamzap.com',
+    }
+
+    feed = feedgenerator.Rss201rev2Feed(**feed_args)
+
+    for page in sum(SECTIONS.values(), []):
+        item_args = {
+            'title': page['title'],
+            'description': page['content'],
+            'link': 'http://adamzap.com/' + page['href']
+        }
+
+        feed.add_item(**item_args)
+
+    with open(OUT_DIR + 'feed.xml', 'w') as feed_file:
+        feed.write(feed_file, 'ascii')
+
+
 def main():
     try:
         shutil.rmtree(OUT_DIR)
@@ -102,6 +125,7 @@ def main():
     sort_pages()
     write_pages()
     write_index()
+    write_feed()
 
     shutil.copytree(IN_DIR + 'media/', OUT_DIR + 'media/')
     shutil.copytree(THEME_DIR + 'static/', OUT_DIR + 'static/')
