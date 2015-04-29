@@ -2,7 +2,7 @@ title: Chords
 date: 2015-04-01
 index_meta: iOS / Python
 
-![Chords](../../media/chords.jpg)
+![Chords](/media/chords.jpg)
 
 Chords is a free guitar chord reference app for the iPhone. It's initial
 release was in 2008. Since then it has been downloaded millions of times.

@@ -2,7 +2,7 @@ title: Reteach
 date: 2015-04-09
 index_meta: Python
 
-![Reteach](../../media/reteach.png)
+![Reteach](/media/reteach.png)
 
 Reteach is a Python program that converts [Blackboard] course backups to
 [Moodle] course backups. Its initial release was in 2010.
