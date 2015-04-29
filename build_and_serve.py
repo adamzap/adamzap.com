@@ -132,6 +132,8 @@ def build():
 
 
 if __name__ == '__main__':
+    build()
+
     server = livereload.Server()
 
     server.watch('content', build)
