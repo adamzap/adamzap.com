@@ -3,11 +3,11 @@ date: 2015-04-29
 
 ### Now Reading
 
-- [The Pastor: A Memoir](http://amzn.com/0061988219/) by Eugene Peterson
 - [Miracle on Voodoo Mountain](http://amzn.com/0529110946/) by Megan Boudreaux
 
 ### 2015
 
+- [The Pastor: A Memoir](http://amzn.com/0061988219/) by Eugene Peterson
 - [JavaScript Allongé](https://leanpub.com/javascript-allonge/) by Reginald Braithwaite
 - [Sheet Music](http://amzn.com/0842360247/) by Kevin Leman
 - [For Men Only](http://amzn.com/1601424450/) by Jeff Feldhahn
