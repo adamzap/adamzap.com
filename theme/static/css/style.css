@@ -20,6 +20,12 @@ html {
   overflow-y: scroll;
 }
 
+@media (max-width: 660px) {
+  html {
+    font-size: 56%;
+  }
+}
+
 body {
   color: #4A4A4A;
   font-size: 2.0rem;
