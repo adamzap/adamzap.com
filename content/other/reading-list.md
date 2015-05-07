@@ -3,6 +3,7 @@ date: 2015-04-29
 
 ### Now Reading
 
+- [Crazy Busy](http://amzn.com/1433533383/) by Kevin DeYoung
 - [Miracle on Voodoo Mountain](http://amzn.com/0529110946/) by Megan Boudreaux
 
 ### 2015
