@@ -146,6 +146,12 @@ iframe {
   margin-bottom: 2rem;
 }
 
+blockquote {
+  border-left: 6px solid #EEEEEE;
+  padding-left: 1.4rem;
+  margin-left: 0;
+}
+
 ::selection {
   color: #EEEEEE;
   background-color: #4A4A4A;
