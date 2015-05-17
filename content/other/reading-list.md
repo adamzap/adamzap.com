@@ -1,8 +1,9 @@
 title: Reading List
-date: 2015-05-06
+date: 2015-05-17
 
 ### Now Reading
 
+- [Moby Dick](http://amzn.com/1503280780/) by Herman Melville
 - [Miracle on Voodoo Mountain](http://amzn.com/0529110946/) by Megan Boudreaux
 
 ### 2015
