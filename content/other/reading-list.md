@@ -1,13 +1,13 @@
 title: Reading List
-date: 2015-05-17
+date: 2015-07-21
 
 ### Now Reading
 
-- [Moby Dick](http://amzn.com/1503280780/) by Herman Melville
 - [Miracle on Voodoo Mountain](http://amzn.com/0529110946/) by Megan Boudreaux
 
 ### 2015
 
+- [Moby Dick](http://amzn.com/1503280780/) by Herman Melville
 - [Crazy Busy](http://amzn.com/1433533383/) by Kevin DeYoung
 - [The Pastor: A Memoir](http://amzn.com/0061988219/) by Eugene Peterson
 - [JavaScript Allongé](https://leanpub.com/javascript-allonge/) by Reginald Braithwaite
