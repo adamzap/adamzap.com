@@ -1,5 +1,5 @@
 title: Book Review: The Pastor
-date: 2015-05-10
+date: 2015-07-30
 
 ![The Pastor: A Memoir](/media/the-pastor.jpg)
 
