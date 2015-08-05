@@ -1,5 +1,5 @@
 title: Music
-date: 2015-04-23
+date: 2015-08-05
 
 I started playing guitar in 2004. Since then I've released a small collection
 of songs, many of which are covers of old video game music that I entered into
