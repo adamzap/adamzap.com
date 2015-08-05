@@ -10,6 +10,13 @@ everything I've released.
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/47151476%3Fsecret_token%3Ds-5yDKs&amp;color=4A4A4A&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
+### The Joy of Sliding
+
+A cover of [the Wily 3-4 music from Mega Man 3 for NES]. It was released in
+August of 2015.
+
+For this song, I used a [DigiTech Drop pedal] to tune my guitar to Drop B.
+
 ### Princess Swellda
 
 A cover of [the Princess Zelda Theme] that plays at the end of Zelda II: The
@@ -53,6 +60,8 @@ The title is a reference to [Confined by As I Lay Dying]. I pretty much covered
 the R.C. Pro Am song in the style of Confined and added a few other elements.
 
 [Dwelling of Duels]: http://dwellingofduels.net/
+[the Wily 3-4 music from Mega Man 3 for NES]: https://www.youtube.com/watch?v=DTqp7jUBoA8
+[DigiTech Drop pedal]: http://digitech.com/en-US/products/the-drop
 [the Princess Zelda Theme]: https://www.youtube.com/watch?v=xHu3u4TLrUk
 [Kemper Profiling Amp]: http://www.kemper-amps.com/home
 [the Desert Theme from Super Mario Bros. 3]: https://www.youtube.com/watch?v=WuUVKOwUEA0
