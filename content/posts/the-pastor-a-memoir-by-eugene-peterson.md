@@ -1,5 +1,11 @@
-title: Book Review: The Pastor
+title: The Pastor
 date: 2015-07-30
+
+I recently read [The Pastor] by [Eugene Peterson]. It was so good that I had to
+share some thoughts on it. Here's my review:
+
+[The Pastor]: http://amzn.com/0061988219/
+[Eugene Peterson]: https://en.wikipedia.org/wiki/Eugene_H._Peterson
 
 ![The Pastor: A Memoir](/media/the-pastor.jpg)
 
@@ -9,7 +15,7 @@ spiritually and in his thinking about life in general.
 
 From stories of his childhood to retiring from service at the church he planted,
 Peterson shares his view of what it means to be a pastor. He summarizes:
-"...[the pastor] is not someone who 'gets things done' but rather the person
+"...[a pastor] is not someone who 'gets things done' but rather the person
 placed in the community to pay attention and call attention to 'what is going
 on right now' between men and women, with one another and with God—this kingdom
 of God that is primarily local, relentlessly personal, and prayerful 'without
