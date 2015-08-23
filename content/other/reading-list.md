@@ -1,8 +1,9 @@
 title: Reading List
-date: 2015-07-21
+date: 2015-08-22
 
 ### Now Reading
 
+- [The Swift 2 Programming Language](https://itunes.apple.com/us/book/id1002622538?mt=11) by Apple
 - [Making Room](http://amzn.com/0802844316/) by Chistine D. Pohl
 - [Miracle on Voodoo Mountain](http://amzn.com/0529110946/) by Megan Boudreaux
 
