@@ -1,5 +1,5 @@
 title: Reading List
-date: 2015-08-22
+date: 2015-10-21
 
 ### Now Reading
 
@@ -8,6 +8,7 @@ date: 2015-08-22
 
 ### 2015
 
+- [Loving Jesus More](http://amzn.com/1433534088/) by Phil Ryken
 - [Making Room](http://amzn.com/0802844316/) by Chistine D. Pohl
 - [Moby Dick](http://amzn.com/1503280780/) by Herman Melville
 - [Crazy Busy](http://amzn.com/1433533383/) by Kevin DeYoung
