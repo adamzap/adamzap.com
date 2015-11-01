@@ -3,7 +3,7 @@ date: 2015-10-21
 
 ### Now Reading
 
-- [The Swift 2 Programming Language](https://itunes.apple.com/us/book/id1002622538?mt=11) by Apple
+- [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/) by Apple
 - [Miracle on Voodoo Mountain](http://amzn.com/0529110946/) by Megan Boudreaux
 
 ### 2015
