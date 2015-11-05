@@ -1,13 +1,13 @@
 title: Reading List
-date: 2015-10-21
+date: 2015-11-02
 
 ### Now Reading
 
-- [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/) by Apple
 - [Miracle on Voodoo Mountain](http://amzn.com/0529110946/) by Megan Boudreaux
 
 ### 2015
 
+- [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/) by Apple
 - [Loving Jesus More](http://amzn.com/1433534088/) by Phil Ryken
 - [Making Room](http://amzn.com/0802844316/) by Chistine D. Pohl
 - [Moby Dick](http://amzn.com/1503280780/) by Herman Melville
