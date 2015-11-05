@@ -3,6 +3,7 @@ date: 2015-11-02
 
 ### Now Reading
 
+- [God Emperor of Dune](http://amzn.com/0441294677/) by Frank Herbert
 - [Miracle on Voodoo Mountain](http://amzn.com/0529110946/) by Megan Boudreaux
 
 ### 2015
