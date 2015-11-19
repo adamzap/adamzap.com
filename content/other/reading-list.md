@@ -1,5 +1,5 @@
 title: Reading List
-date: 2015-11-02
+date: 2015-11-12
 
 ### Now Reading
 
@@ -8,6 +8,7 @@ date: 2015-11-02
 
 ### 2015
 
+- [The Practice of the Presence of God](http://amzn.com/0883681056/) by Brother Lawrence
 - [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/) by Apple
 - [Loving Jesus More](http://amzn.com/1433534088/) by Phil Ryken
 - [Making Room](http://amzn.com/0802844316/) by Chistine D. Pohl
