@@ -1,8 +1,9 @@
 title: Reading List
-date: 2015-12-05
+date: 2015-12-07
 
 ### Now Reading
 
+- [The Interior Castle](http://amzn.com/0486461459/) by Teresa of Avila
 - [Miracle on Voodoo Mountain](http://amzn.com/0529110946/) by Megan Boudreaux
 
 ### 2015
