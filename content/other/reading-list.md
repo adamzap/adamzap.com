@@ -3,11 +3,11 @@ date: 2015-12-05
 
 ### Now Reading
 
-- [God Emperor of Dune](http://amzn.com/0441294677/) by Frank Herbert
 - [Miracle on Voodoo Mountain](http://amzn.com/0529110946/) by Megan Boudreaux
 
 ### 2015
 
+- [God Emperor of Dune](http://amzn.com/0441294677/) by Frank Herbert
 - [The Biggest Story](http://amzn.com/1433542447/) by Kevin DeYoung and Don Clark
 - [The Practice of the Presence of God](http://amzn.com/0883681056/) by Brother Lawrence
 - [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/) by Apple
