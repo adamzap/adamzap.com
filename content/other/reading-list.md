@@ -1,13 +1,13 @@
 title: Reading List
-date: 2015-12-07
+date: 2015-01-01
 
 ### Now Reading
 
 - [The Interior Castle](http://amzn.com/0486461459/) by Teresa of Avila
-- [Miracle on Voodoo Mountain](http://amzn.com/0529110946/) by Megan Boudreaux
 
 ### 2015
 
+- [Miracle on Voodoo Mountain](http://amzn.com/0529110946/) by Megan Boudreaux
 - [God Emperor of Dune](http://amzn.com/0441294677/) by Frank Herbert
 - [The Biggest Story](http://amzn.com/1433542447/) by Kevin DeYoung and Don Clark
 - [The Practice of the Presence of God](http://amzn.com/0883681056/) by Brother Lawrence
