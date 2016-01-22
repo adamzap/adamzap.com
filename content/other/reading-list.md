@@ -1,7 +1,11 @@
 title: Reading List
-date: 2015-01-01
+date: 2016-01-20
 
 ### Now Reading
+
+- [Can You Drink the Cup?](http://amzn.com/1594710996/) by Henri Nouwen
+
+### 2016
 
 - [The Interior Castle](http://amzn.com/0486461459/) by Teresa of Avila
 
