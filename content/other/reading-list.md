@@ -1,12 +1,13 @@
 title: Reading List
-date: 2016-01-20
+date: 2016-02-01
 
 ### Now Reading
 
-- [Can You Drink the Cup?](http://amzn.com/1594710996/) by Henri Nouwen
+- [Simply Jesus](http://amzn.com/0062084399/) by N. T. Wright
 
 ### 2016
 
+- [Can You Drink the Cup?](http://amzn.com/1594710996/) by Henri Nouwen
 - [The Interior Castle](http://amzn.com/0486461459/) by Teresa of Avila
 
 ### 2015
