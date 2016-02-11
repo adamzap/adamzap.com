@@ -1,8 +1,9 @@
 title: Reading List
-date: 2016-02-01
+date: 2016-02-03
 
 ### Now Reading
 
+- [Prayer](http://amzn.com/0143108581/) by Timothy Keller
 - [Simply Jesus](http://amzn.com/0062084399/) by N. T. Wright
 
 ### 2016
