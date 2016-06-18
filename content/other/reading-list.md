@@ -1,13 +1,15 @@
 title: Reading List
-date: 2016-02-03
+date: 2016-06-17
 
 ### Now Reading
 
-- [Prayer](http://amzn.com/0143108581/) by Timothy Keller
-- [Simply Jesus](http://amzn.com/0062084399/) by N. T. Wright
+- [Heretics of Dune](http://amzn.com/0441328008/) by Frank Herbert
 
 ### 2016
 
+- [Discipling](http://amzn.com/1433551225/) by Mark Dever
+- [Prayer](http://amzn.com/0143108581/) by Timothy Keller
+- [Simply Jesus](http://amzn.com/0062084399/) by N. T. Wright
 - [Can You Drink the Cup?](http://amzn.com/1594710996/) by Henri Nouwen
 - [The Interior Castle](http://amzn.com/0486461459/) by Teresa of Avila
 
